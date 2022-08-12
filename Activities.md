@@ -220,7 +220,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>  </td>
+    <td> 10 a 21 de Octubre </td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -245,7 +245,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td>  </td>
+    <td> 18 de Octubre </td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
