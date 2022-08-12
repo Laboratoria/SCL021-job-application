@@ -82,7 +82,8 @@
     </td>
   </tr>
   <tr>
-    <td> 13 y 20 de Septiembre </td>
+    <td> Primer simulacro: 13 de Septiembre </td>
+</td> Segundo simulacro: 20 de Septiembre </td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -141,7 +142,7 @@
     <td>Segunda versión del CV con recomendaciones incorporadas.</td>
   </tr>
   <tr>
-    <td> 26 a 30 de Septiembre </td>
+    <td> Desde el 26 al 30 de Septiembre </td>
     <td>
       <b>Sesión revisión y feedback LinkedIn</b>
       <p>
@@ -155,7 +156,7 @@
     </td>
   </tr>
   <tr>
-    <td> 10 al 21 de Octubre </td>
+    <td> Desde el 10 al 21 de Octubre </td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -201,7 +202,8 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td> 6 y 18 de Octubre </td>
+    <td> Primera sesión: 6 de Octubre </td>
+</td> 18 de Octubre </td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
