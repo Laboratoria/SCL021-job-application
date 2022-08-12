@@ -33,7 +33,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>< Taller:30 de Agosto ></td>
     <td>
       <b>Autoconocimiento</b>
       <p>
