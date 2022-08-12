@@ -82,7 +82,7 @@
     </td>
   </tr>
   <tr>
-    <td> 13 y 20 de Septiembre ></td>
+    <td> 13 y 20 de Septiembre </td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -99,7 +99,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td> 13 de Septiembre </td>
+    <td> 12 de Septiembre </td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
