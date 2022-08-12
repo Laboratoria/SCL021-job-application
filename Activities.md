@@ -33,7 +33,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td>< Taller:30 de Agosto ></td>
+    <td> Taller:30 de Agosto </td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -55,7 +55,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td> 6 de Septiembre </td>
     <td>
       <b>Preparación de CV y Linkedin</b>
       <p>
@@ -77,8 +77,8 @@
       </ul>
     </td>
     <td>
-      <li>Primera versión del CV + LinkedIn (fecha) </li>
-      <li>Segunda versión del CV + LinkedIn (fecha) </li>
+      <li>Primera versión del CV + LinkedIn (12/09/2022) </li>
+      <li>Segunda versión del CV + LinkedIn (03/10/2022) </li>
     </td>
   </tr>
   <tr>
