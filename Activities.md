@@ -313,7 +313,7 @@
   </tr>
   <tr>
     <td><b>Project Feedback</b></td>
-    <td> 15 y 22 de Noviembre </td>
+    <td> Desde el 14 al 22 de Noviembre </td>
     <td>
       <b>Project Feedback:</b>
       <p>
