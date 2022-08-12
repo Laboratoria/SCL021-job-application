@@ -212,7 +212,7 @@
         <li>Segunda Simulacion: 20 de octubre.</li>
       </ul>
     </td>
-</td> 18 de Octubre </td>
+</td> </td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
