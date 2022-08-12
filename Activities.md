@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td> 16 de Agosto </td>
     <td>
       <b>Kick off</b>
       <p>
