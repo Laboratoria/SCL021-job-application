@@ -82,8 +82,12 @@
     </td>
   </tr>
   <tr>
-    <td> Primer simulacro: 13 de Septiembre </td>
-</td> Segundo simulacro: 20 de Septiembre </td>
+     <td>
+      <ul>
+        <li>Primer simulacro: 13 de septiembre.</li>
+        <li>Segundo simulacro: 20 de septiembre.</li>
+      </ul>
+    </td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -202,7 +206,12 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td> Primera sesión: 6 de Octubre </td>
+     <td>
+      <ul>
+        <li>Primera Simulacion: 06 de octubre.</li>
+        <li>Segunda Simulacion: 20 de octubre.</li>
+      </ul>
+    </td>
 </td> 18 de Octubre </td>
     <td>
       <b>
