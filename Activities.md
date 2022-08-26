@@ -33,7 +33,8 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td> Taller:30 de Agosto </td>
+    <td><li> Taller: martes 30 de agosto</li>
+      <li>Working Session: martes 6 de septiembre</li></td>
     <td>
       <b>Autoconocimiento</b>
       <p>
