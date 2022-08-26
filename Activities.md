@@ -46,9 +46,9 @@
     </td>
     <td>
       <ul>
-        <li>Pre work del taller (slide 2 de la PPT del taller).</li>
-        <li>Taller: Historia de vida y habilidades transferibles.</li>
-        <li>Píldora: About me y pitch.</li>
+         <li><a href="https://docs.google.com/presentation/d/1TceMzemhcGD4HPfNYDDD3JllrFDiNOD4RddrP0c7krI/edit?usp=sharing"> Pre work del taller.</a></li>
+         <li><a href="https://docs.google.com/presentation/d/1TWSFLBml0k5tgS2kt7mmU2Eu82cJuqvG2hPFq0ZRfqM/edit?usp=sharing"> Taller: Historia de vida y habilidades transferibles.</a></li> 
+        <li><a href="https://docs.google.com/presentation/d/1xQnnsQE4zbu2DXqziLhk-pCookCQBxg856kKmwArjI4/edit?usp=sharing"> Píldora: About me y pitch.</a></li>
         <li>Espacio grupal para compartir “about me” y dar y recibir feedback.</li>
       </ul>
     </td>
