@@ -74,7 +74,7 @@
         <li> <a href="https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b"> Pildora: Funcionamiento de Linkedin</li>
         <li> <a href="https://www.loom.com/share/cb019555280444ada9dacab2810fefdb"> Píldora: Recomendaciones para la foto.</a></li>
         <li> Ayudantías OH con el equipo (son opcionales y puedes solicitarlas a tu CDP).</li>
-        <li>Q&A externxs / placement.</li>
+        <li> <a href="https://app.sli.do/event/3uzdNGPJ9iCj91BxV7onLj"> Q&A externxs / placement.</li>
       </ul>
     </td>
     <td>
@@ -116,7 +116,7 @@
     </td>
     <td>
       <ul>
-        <li>Q&A Mentorías RH (Slido) </li>
+        <li> <a href="https://app.sli.do/event/wmYSkEYKnXM1xREGdE7EDJQ&A">Q&A Mentorías RH (Slido) </li>
       </ul>
     </td>
     <td>NA</td>
