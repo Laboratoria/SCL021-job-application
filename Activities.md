@@ -98,8 +98,8 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Tips y buenas prácticas entrevista RRHH.</li>
-        <li>Píldora: Negociación salario y condiciones laborales.</li>
+        <li> <a href="https://www.youtube.com/watch?v=HjOUpKgbdIM"> Píldora: Tips y buenas prácticas entrevista RRHH.</li>
+        <li> <a href="https://drive.google.com/file/d/1BJz3dWOzIUAoTyCclnKpZlQRRAZ4vxv_/view"> Píldora: Negociación salario y condiciones laborales.</li>
       </ul>
     </td>
     <td>NA</td>
@@ -107,7 +107,7 @@
   <tr>
     <td> 12 de Septiembre </td>
     <td>
-      <b>Q&A mentorías RH con el equipo</b>
+      <b>Q&A mentorías RH con el equipo </b>
       <p>
         Te compartiremos cómo serán las sesiones de revisión de herramientas y
         la simulación de la entrevista de RH y podrás prepararte para esta
@@ -116,7 +116,7 @@
     </td>
     <td>
       <ul>
-        <li>Q&A Readme del proyecto</li>
+        <li>Q&A Mentorías RH (Slido) </li>
       </ul>
     </td>
     <td>NA</td>
