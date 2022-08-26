@@ -70,10 +70,10 @@
     </td>
     <td>
       <ul>
-        <li>Pildora: CV en la industria tech.</li>
-        <li>Pildora: Funcionamiento de Linkedin</li>
-        <li>Píldora: Recomendaciones para la foto.</li>
-        <li>OH con el equipo (son opcionales y puedes solicitarlas a tu CDP).</li>
+        <li> <a href="https://www.loom.com/share/b682c1f7b7964641a5fe1b8acfcf4b8e"> Pildora: CV en la industria tech.</li>
+        <li> <a href="https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b"> Pildora: Funcionamiento de Linkedin</li>
+        <li> <a href="https://www.loom.com/share/cb019555280444ada9dacab2810fefdb"> Píldora: Recomendaciones para la foto.</li>
+        <li> Ayudantías OH con el equipo (son opcionales y puedes solicitarlas a tu CDP).</li>
         <li>Q&A externxs / placement.</li>
       </ul>
     </td>
