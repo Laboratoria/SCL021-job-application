@@ -242,8 +242,8 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Perfil de Github para la búsqueda de empleo.</li>
-        <li>
+        <li> <a href="https://www.youtube.com/watch?v=vQ_EBqgUR0c"> Píldora: Perfil de Github para la búsqueda de empleo.</li>
+        <li> 
           OH para ver perfil de Github (son opcionales y puedes usar las que
           ya tienen disponibles lxs coaches).
         </li>
@@ -267,7 +267,7 @@
     </td>
     <td>
       <ul>
-        <li>Pildora: Buenas prácticas entrevistas tech</li>
+       <a href="https://www.youtube.com/watch?v=0NMil00HKEU"> <li>Pildora: Buenas prácticas entrevistas tech</li>
       </ul>
     </td>
     <td>NA</td>
