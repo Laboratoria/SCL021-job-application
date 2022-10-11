@@ -248,7 +248,7 @@
         </li>
       </ul>
     </td>
-    <td>Primera versión del perfil de GitHub (24/10/2022)</td>
+    <td>Primera versión del perfil de GitHub (28/10/2022)</td>
   </tr>
   <tr>
     <td rowspan="3">
