@@ -287,7 +287,7 @@
     <td>
       <ul>
         <li>Guía sesiones de mentoría (apartado en el read me).</li>
-        <li>Form autoevaluación estudiante y evaluación a mentora/or.</li>
+        <li><a href="https://forms.gle/QM8Rw1pG4tF3TXzH8"> Form autoevaluación estudiante y evaluación a mentora/or.</li>
       </ul>
     </td>
     <td>
@@ -297,7 +297,7 @@
           entrevista + perfil de GitHub.
         </li>
         <li>
-          Autoevaluación de performance en entrevista + perfil de GitHub.
+        Autoevaluación de performance en entrevista + perfil de GitHub.
         </li>
         <li>
           Segunda versión del perfil de GitHub con recomendaciones incorporadas.
